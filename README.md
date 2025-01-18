@@ -25,7 +25,7 @@ Photogram is a social media platform designed for sharing photos and thoughts, f
 
 ### Database
 - SQL Server
-# Sosialmedie-MVC
+# photogram-MVC
 
 ![Skjermbilde 2025-01-02 kl 17 21 20](https://github.com/user-attachments/assets/14bd686e-792b-43c5-a588-ca056d5cc322)
 ![Skjermbilde 2025-01-02 kl 17 23 53](https://github.com/user-attachments/assets/8cecf69b-c5dd-4c56-90f4-93042014ea60)
